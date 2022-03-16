@@ -1,1 +1,0 @@
-import{p as r}from"./Space.cb2e4e91.js";const m=e=>{const{opacityDisabled:o,heightTiny:t,heightSmall:n,heightMedium:s,heightLarge:a,heightHuge:g,primaryColor:i,fontSize:h}=e;return{fontSize:h,textColor:i,sizeTiny:t,sizeSmall:n,sizeMedium:s,sizeLarge:a,sizeHuge:g,color:i,opacitySpinning:o}},p={name:"Spin",common:r,self:m};var c=p;export{m as a,c as s};
