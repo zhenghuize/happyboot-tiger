@@ -1,0 +1,1 @@
+import{k as a,af as t,ap as f}from"./vendor.5b890536.js";const e=a(null),s=a(!1),o=a(!1);t(o,l=>{l?(e.value=f,s.value=!0):(e.value=null,s.value=!1)});const u=a(!1);export{u as a,o as b,s as i,e as t};

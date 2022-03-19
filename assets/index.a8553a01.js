@@ -1,0 +1,1 @@
+import{H as t}from"./HbAdminPageLayout.84c3df19.js";import{o as e,c as o,w as a,C as r}from"./vendor.5b890536.js";import"./plugin-vue_export-helper.21dcd24c.js";const s=r(" \u8FD9\u662F\u4E00\u4E2A\u9690\u85CF\u4EE5\u9875\u9762 "),u={setup(c){return(_,n)=>(e(),o(t,null,{default:a(()=>[s]),_:1}))}};export{u as default};

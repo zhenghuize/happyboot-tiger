@@ -1,1 +1,0 @@
-import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";import{o as t,K as o,L as _}from"./vendor.5be5c74e.js";const r={},n={class:"hb-admin-page-layout"};function s(e,c){return t(),o("div",n,[_(e.$slots,"default",{},void 0,!0)])}var u=a(r,[["render",s],["__scopeId","data-v-fc4853f4"]]);export{u as H};
