@@ -1,0 +1,1 @@
+import{_ as a}from"./index.5a51ddbb.js";import{f as t,g as _,Y as o}from"./vendor.812f0455.js";const r={},n={class:"hb-admin-page-layout"};function s(e,d){return t(),_("div",n,[o(e.$slots,"default",{},void 0,!0)])}var u=a(r,[["render",s],["__scopeId","data-v-23b46d98"]]);export{u as H};
