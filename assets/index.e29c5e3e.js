@@ -1,0 +1,1 @@
+import{H as t}from"./HbAdminPageLayout.d9382f10.js";import{f as e,v as o,k as a,x as r}from"./vendor.3dbe2827.js";import"./index.e9ef323d.js";const s=r(" \u8FD9\u662F\u4E00\u4E2A\u9690\u85CF\u4EE5\u9875\u9762 "),u={setup(c){return(_,n)=>(e(),o(t,null,{default:a(()=>[s]),_:1}))}};export{u as default};
